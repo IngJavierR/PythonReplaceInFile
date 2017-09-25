@@ -1,0 +1,324 @@
+Existe una nueva versión de la aplicación, por favor actualiza para poder continuar. - 
+Lo sentimos, ocurrió un error al iniciar la aplicación. - 
+Para continuar es necesario contar con conexión a internet. Por favor, verifica tu conexión e inténtalo nuevamente. - 
+Lo sentimos, no pudimos conectar con el servicio, por favor verifica tu conexión o inténtalo más tarde. - 
+TERMINAR TUTORIAL - 
+También puedes buscar tus\npelículas utilizando la vista de lista. - 
+¡Ahora la mejor experiencia del cine en la palma de tu mano! - 
+Easily explore our sections with only a tap - 
+También puedes buscar tus películas utilizando la vista de lista. - 
+Encuentra rápidamente lo que buscas, conoce nuestros estrenos, festivales y eventos especiales. - 
+Encuentra rápidamente lo que buscas, conoce nuestros estrenos, festivales y eventos especiales. - 
+Remember you can choose your city any time pushing this button. - 
+Encuentra tu historial de boletos comprados. - 
+Consulta tus pedidos de alimentos en cualquier momento. - 
+Revisa tu historial de transacciones y puntos Club Cinépolis® fácilmente. - 
+Almacena tus tarjetas en tu dispositivo para agilizar tus compras de forma segura. - 
+You need help? Comunícate con Cinematicket en cualquier momento. - 
+Aceptar - 
+Anterior - 
+Next - 
+Continue - 
+Cargando - 
+Cancelar - 
+Permitir - 
+Denegar - 
+Reintentar - 
+Buscar - 
+Compartir - 
+Favorito - 
+Espera un momento - 
+Finalizar - 
+Sí - 
+No - 
+Llamar - 
+Close - 
+Contactar - 
+Comenzar - 
+No se encontró \nninguna cartelera. - 
+Date de estreno: \n%s - 
+Date de estreno: - 
+Próximamente - 
+Movies - 
+Alimentos - 
+Cinemas - 
+Profile - 
+Cinépolis® usará tu ubicación para buscar la cartelera más cercana - 
+¿Deseas permitir tu ubicación? - 
+Detectamos que tu ubicación es %s, ¿deseas mostrar la cartelera de esta ciudad? - 
+Tu ubicación a cambiado a %s, ¿deseas mostrar la cartelera de esta ciudad? - 
+Escoge tu país - 
+Escoge tu ciudad - 
+Elegir país - 
+Elegir ciudad - 
+Change ubicación - 
+Ubicación no disponible - 
+País - 
+City - 
+Cartelera - 
+Muestras y festivales - 
+Screen de Arte - 
+Coming soon - 
+Pre realeses - 
+Cinemas favoritos - 
+Por complejo - 
+Estás en cartelera - 
+Estás en muestras y festivales - 
+Estás en Screen de Arte - 
+Estás en próximos estrenos - 
+Estás en preventas - 
+Estás en cines favoritos - 
+No hay funciones - 
+Género: %1$s - 
+Duración: %1$s - 
+Synopsis - 
+Timerios - 
+Duración: - 
+Today - 
+Tomorrow - 
+ %s - 
+Todos los cines - 
+Current location: %s - 
+Pase Anual Corporativo - 
+PIN - 
+¿Deseas agregar un Pase Anual Corporativo? - 
+¿Deseas utilizar tu Pase Anual Corporativo? - 
+Ingresa tu tarjeta - 
+Ingresa un numero de tarjeta válido - 
+Ingresa tu PIN - 
+Ingresa un PIN válido - 
+Recuerda que puedes agregar o eliminar tu Pase Anual Corporativo ingresando a Profile, en la sección de My cards. - 
+¿Deseas cancelar tu compra? - 
+Seguir comprando - 
+Cancelar compra - 
+Select your tickets - 
+TOTAL (IVA incluido): - 
+%s - 
+Puedes comprar 10 boletos máximo por transacción. - 
+Puedes comprar %d boletos máximo por transacción. - 
+Cupón - 
+Redimir - 
+TRADICIONAL - 
+$0.0 - 
+Obteniendo asientos - 
+Selecciona al menos un boleto para continuar - 
+REDUCIDO - 
+ECONOMICO - 
+SUPER ECONOMICO - 
+Tu sesión está próxima a vencer, ¿deseas continuar? - 
+Tu sesión ha expirado. - 
+La compra de boletos no está habilitada, espérala proximamente. - 
+Select your seats - 
+Movie: - 
+Complejo: - 
+Date: - 
+Función: - 
+Asientos: - 
+Screen: - 
+Tickets: - 
+Your seat - 
+Sold - 
+Wheelchair - 
+Zona A - 
+Zona B - 
+Zona C - 
+Pantalla - 
+Los asientos de esta área no se pueden seleccionar. - 
+Usted ha seleccionado un asiento para persona en silla de ruedas, le solicitamos sea respetado. Puede que no existan asientos en este espacio. Los asientos adyacentes están designados para un acompañante de la persona en silla de ruedas, de ser requerido se le podrá pedir que se traslade a otro asiento disponible o de no haber cupo en la sala se le devuelva una cortesía de entrada. - 
+Selecciona todos sus asientos para continuar. - 
+¿Deseas agregar alimentos? - 
+Realizar compra - 
+Elige la forma de pago que prefieras. - 
+Personal info - 
+Nombre completo - 
+Número telefónico - 
+Correo electrónico - 
+Card Club Cinépolis® - 
+Ingresa tu nombre completo - 
+Ingresa tu correo electrónico. - 
+Ingresa un número de tarjeta Club Cinépolis® válido. - 
+¿Ya tienes una cuenta Club Cinépolis®? - 
+Inicia sesión ahora y podrás obtener\nlos siguientes beneficios. - 
+AaBbCcDdEeFfGgHhIiJjKkLlMmNnÑñOoPpQqRrSsTtUuVvWwXxYyZz ÁáÂâÃãÀàÇçÉéÊêÍíÓóÔôÕõÚú. - 
+Número de tarjeta - 
+MM/AAAA - 
+CVV - 
+Titular de la tarjeta - 
+Sostenga la tarjeta aquí \nSe escaneará automáticamente. - 
+AÁBCDEÉFGHIÍJKL MNÑOÓPQRSTUÚVWXYZ. - 
+Save card - 
+Ingresa el número de tarjeta. - 
+Ingresa un número de tarjeta válido. - 
+Ingresa una fecha de expiración. - 
+Ingresa el código de seguridad de la tarjeta. - 
+El código de seguridad de la tarjeta debe de ser de 3 dígitos. - 
+El código de seguridad de la tarjeta debe de ser de 4 dígitos. - 
+Ingresa el nombre del titular de la tarjeta. - 
+Ingresa el nombre completo del titular de la tarjeta. - 
+Ingresa el número de tu tarjeta Club Cinépolis®. - 
+Ingresa el número de tu tarjeta Club Cinépolis® debe de ser 16 digitos - 
+Confirmar compra - 
+Nombre - 
+Detalle de pago - 
+Tarjeta - 
+Payment Method - 
+Asientos - 
+Tickets - 
+Precio - 
+Aviso de privacidad&lt;/a> - 
+Antes de pagar por favor verifica los Términos y condiciones y Aviso de privacidad - 
+%s - 
+Booking - 
+Tarjeta Bancaria - 
+PayPal - 
+CinemaCash® - 
+Visa Checkout - 
+Club Cinépolis® - 
+Pase Anual - 
+Tu compra ha sido realizada exitosamente, \n gracias por tu preferencia. - 
+Tu número de confirmación es: - 
+* Sólo el titular de la tarjeta de crédito/débito puede recoger boletos, llevando consigo la tarjeta de crédito, identificación oficial y firmando el voucher correspondiente en compras mayores a $250.00. Recuerda que una vez realizado el cargo a tu tarjeta de crédito no habrá cambios ni cancelaciones. - 
+Detalle de compra - 
+¡Gracias por tu preferencia! - 
+Puedes consultar el detalle de tu compra\n en tu correo electrónico o en tu perfil. - 
+VER DETALLE DE COMPRA - 
+Finalizar compra - 
+Deberás llegar al cine una hora antes de que comience la función y pagar tus boletos en taquilla, de lo contrario tu orden será cancelada. - 
+Espera pronto la venta de alimentos en tu ciudad. - 
+Iniciar sesión - 
+Con tu cuenta podrás - 
+Tener promociones exclusivas - 
+Registrarme - 
+Ya tengo Club Cinépolis® - 
+Registrarme usando: - 
+O ingresa tus datos - 
+Apellido paterno - 
+Apellido materno - 
+Confirmar correo electrónico - 
+Contraseña - 
+Confirmar contraseña - 
+Card Club Cinépolis® (Opcional) - 
+Pregunta de seguridad - 
+Respuesta - 
+Date de nacimiento - 
+Teléfono (10 digitos) - 
+Inicia sesión con tu cuenta Cinépolis® - 
+¿Olvidaste tu contraseña? - 
+Conectar con: - 
+Iniciando sesión... - 
+Ingresa tu Cinépolis® ID - 
+Ingresa tu contraseña de Cinépolis® ID - 
+Desarrollado por IA interactive - 
+Términos y condiciones - 
+Términos y condiciones CinemaCash® - 
+Aviso de privacidad - 
+http://www.cinepolis.com/_html/terminos-condiciones.html - 
+https://docs.google.com/viewer?url=http://cinepolis.com/pdf/Terminos-y-condiciones-CINECASH.pdf - 
+https://docs.google.com/viewer?url=http://www.cinepolis.com/PDF/aviso-de-privacidad-cinepolis.pdf - 
+Términos y condiciones - 
+Aviso de privacidad - 
+Ocurrió un error inesperado, intenta más tarde. - 
+Ocurrió un error inesperado, verifica tu conexión. - 
+Lo sentimos, la operación no fue completada. Pudo haberse aplicado algún cargo a tu cuenta. Por favor, contacta a Cinematicket al 01 55 2122 6060 para verificar. - 
+Lo sentimos, la operación no fue completada. Pudo haberse aplicado algún cargo a tu cuenta. Por favor, contacta a aac@cinepolis.com para verificar. - 
+Servicio no disponible, por favor intenta nuevamente. - 
+No cuentas con conexión a internet. - 
+No se recibió respuesta del servidor. - 
+Ocurrió un problema en la conexión, intente más tarde. - 
+Su conexión no es segura, pruebe con otra red. - 
+Ocurrió un problema en la conexión, intente más tarde. - 
+Ocurrió un problema en la conexión, intente más tarde. - 
+Tu sesión ha expirado, ingresa tus datos nuevamente. - 
+Se ha recibido una respuesta incorrecta. - 
+Petición incorrecta, revisa tus datos. - 
+Tu pedido será entregado con \nlos siguientes datos: - 
+Código de confirmación de boleto: - 
+$ - 
+"Código de confirmación: " - 
+yyyy-dd-MM\'T\'hh:mm:ss - 
+Aún no tienes\nningún boleto. - 
+Pedido eliminado - 
+Tickets eliminados - 
+my tickets - 
+my orders - 
+Mailbox - 
+You need help? - 
+Activate visit guide - 
+Show tutorial - 
+About - 
+Close sesión - 
+Únete a Cinépolis® - 
+Y comienza a gozar de todos los \nbeneficios que tenemos para ti. - 
+Crear un perfil ahora - 
+Ya tengo cuenta - 
+Deberás llegar al cine 40 minutos antes de que comience la función y pagar tus boletos en taquilla, de lo contrario tu orden será cancelada. - 
+En compras mayores a $200 el titular de la tarjeta debe presentarse en atención al cliente para firmar el comprobante fiscal necesario. - 
+Código de confirmación de boleto: - 
+Datos de facturación - 
+Cinema:  - 
+Transacción:  - 
+No tienes ningún\npedido aún. - 
+En Proceso - 
+Sesión cerrada correctamente. - 
+¿Seguro que quieres cerrar sesión?. - 
+¿Deseas comunicarte con Cinematicket? - 
+visitas - 
+Movie - 
+Complejo - 
+Date - 
+Transacción - 
+Cinema - 
+Afíliate por $59 - 
+Y comienza a gozar de todos los\nbeneficios que tenemos para ti. - 
+Yo la quiero - 
+Ya tengo una tarjeta - 
+Ingresa el número de tu tarjeta - 
+Número de tarjeta Club Cinépolis® - 
+Últimos movimientos - 
+No tienes ninguna transacción. - 
+No existen datos para mostrar. - 
+"Lo sentimos, no tienes suficientes puntos Club Cinépolis®. Por favor intenta con otro método de pago. - 
+Tu usuario o contraseña son incorrectos, por favor verifícalos. - 
+Teléfono - 
+Servicio - 
+Mensaje - 
+Tipo de mensaje - 
+Enviar - 
+Ingresa un correo electrónico válido. - 
+Ingresa un teléfono. - 
+Ingresa un teléfono válido. - 
+Es necesario seleccionar un tipo de mensaje. - 
+Es necesario seleccionar una ciudad. - 
+Es necesario seleccionar un complejo. - 
+Es necesario seleccionar un servicio. - 
+Ingresa un mensaje. - 
+Mensaje enviado correctamente. - 
+My cards - 
+add tarjeta bancaria - 
+add Pase Anual Corporativo - 
+add tarjeta Club Cinépolis® - 
+Tarjeta borrada - 
+Pase Anual borrado - 
+Card Club Cinépolis borrada - 
+Crédito - 
+Recargar - 
+créditos Cinemacash - 
+No tienes ninguna\ntransacción. - 
+"Lo sentimos, no tienes créditos Cinemacash suficientes. Por favor intenta con otro método de pago. - 
+Settings - 
+Ubicación y localización - 
+Permitir detección de ubicación - 
+City actual - 
+Notificaciones - 
+Permitir notificaciones - 
+Sí, ver el menú completo - 
+015521226060 - 
+aac@cinepolis.com - 
+PT84NA3 - 
++28 - 
+¡Ups! Ha ocurrido un problema. - 
+00:00 - 
+tel:01551226060 - 
+Error al cargar el video - 
+Ocurrió un error al obtener el mapa de asientos, intenta más tarde. - 
+Compra Cinépolis - 

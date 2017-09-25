@@ -1,5 +1,7 @@
-#!/usr/bin/python
-def getTranslates():
+"""Replace trans"""
+
+def get_translates():
+    """get_translates"""
     file_object = open("./Files/translate.txt", "r")
     dictionary = {}
     for line in file_object:
@@ -11,13 +13,13 @@ def getTranslates():
 
 def _main_():
     print "Started"
-    dictionary = getTranslates()
-    fileToTrans = open("./Files/strings.xml", "r+")
-    outputFile = open('./Files/stringss_out.xml', 'w')
-    for line in fileToTrans:
+    dictionary = get_translates()
+    file_to_trans = open("./Files/strings.xml", "r+")
+    output_file = open('./Files/stringss_out.xml', 'w')
+    for line in file_to_trans:
         for dic in dictionary:
             line = line.replace(dic, dictionary[dic])
-        outputFile.write(line)
+        output_file.write(line)
     print "Finish"
 
 _main_()
