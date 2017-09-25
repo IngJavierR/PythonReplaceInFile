@@ -1,0 +1,125 @@
+Sección Películas - Cartelera
+Películas - Movies
+Estás en Cartelera -  Now showing
+Preventas - Pre realeses
+Próximos estrenos - Coming soon
+Filtro - Filter Alimentos - Food
+Cines - Cinemas
+Horarios - Times
+Sinopsis - Synopsis
+Favoritos - Favorites
+Atrás - Back
+Hoy - Today
+Mañana - Tomorrow
+Lunes - Monday
+Martes- Tuesday
+Miércoles - Wednesday 
+Jueves- Thursday
+Viernes - Friday
+Sábado - Saturday
+Domingo- Sunday
+Ubicación actual - location
+Proceso de compra de boletos
+Selecciona tus boletos - Select your tickets
+Puedes comprar 10 boletos por transacción - You can buy 10 tickets max by purchase
+3era edad - old age
+Adulto -Adult
+Niños - Children
+Total de la compra - Total
+Siguiente - Next
+Selecciona tus asientos - Select your seats
+Película - Movie
+Cine - Cinema
+Fecha - Date
+Hora - Time
+Sala - Screen
+Boletos - Tickets
+Selección - Your seat
+Ocupado - Sold
+Silla de ruedas - Wheelchair
+Tradicional - Available
+¿Deseas agregar alimentos a tu orden? - Do you want add food to your order?
+Si, ver el menú completo - Yes I want see the menu
+No, continuar la compra de boletos- - No, continue with  purchase tickets
+Reservar- Booking
+Métodos de pago - Payment Method
+Datos personales - Personal info
+Guardar datos - Save data
+Alimentos
+Escoge tu cine - Choose your cinema
+Preparando menú - Loading menu
+Chapatas - Bagui
+Crepas - Crepe
+Repostería - Desserts
+Clásicos -Clasics
+Frappés y Smothies - Frappes and Smothies
+Café y té - Coffee and Tea
+Dulcería - Candies
+Clásicos
+Chapatas favoritas - Favorites Baguis
+Tres quesos - three cheeses
+Papas Twister - Twister potatoes
+Papas dippers - Dip potatoes 
+Crepas
+Dulces favoritas - Favorites sweets
+Cajeta y nuez - Nut and caramel
+Manzana, canela y queso - Apple, cinnamon and cheese
+Pay de Limon- Lemon pay
+Tres quesos - Three cheeses
+Queso Philadelphia y fresa - Cream cheese and strawberry
+Queso Philadelphia y zarzamora - Cream cheese and blackberry 
+Repostería - Desserts
+Pastel de chocolate - chocolate cake
+Pastel de elote - corn cake 
+Clásicos
+Papas fritas adobadas - potato chips
+Papas naturales - 
+Palomitas - Pop corn
+Refresco - soda
+Agua embotellada - Bottled water
+Agregar - add
+Elige tu primer refresco - Choose your first soda
+Elige tu primer refresco - Choose your second soda
+Elige tus palomitas - Choose your pop corns
+Frappés y Smothies
+Chocolate blanco - white chocolate
+Moka Caramelo - Moka caramel
+Guanabana - Soursop
+Frutas tropicales - tropical fruits
+Piña colada - pina colada
+Mango chamoy - mango 
+Café y té
+Frambuesa - raspberry
+Durazno - Peach
+Cines 
+Cines - Cinemas
+Ubicación actual - Current location
+Cambiar - Change
+Ciudad - City
+Continuar - Continue
+Perfil
+Perfil-Profile
+Mis boletos - my tickets
+Mis pedidos - my orders
+Mis tarjetas - My cards
+¿Necesitas ayuda? - You need help?
+Activa visita guiada - Activate visit guide
+Ver tutorial - Show tutorial
+Buzón - Mailbox
+Acerca de - About
+Cerrar sesión - Log out
+Mis boletos
+Aún no tienes ningún boletos - No yet have tickets, please visit Now showing section
+No tienes ningún pedido aún - No yet have orders, please visit Food section
+Mis tarjetas
+Tarjeta bancaria - Credit card
+Tarjeta Club Cinépolis - Card Club Cinépolis 
+Guardar tarjeta - Save card
+Configuración
+Configuración - Settings
+Permit detección de ubicación - Allow geolocation
+Cerrar - Close
+Tutorial
+Explora de forma sencilla nuestras secciones con tan sólo un tap. - Easily explore our sections with only a tap
+¡Compra tus alimentos con anticipación sin hacer filas! - Buy in advance your food without lines
+Recuerda que puedes cambiar de ciudad en cualquier momento utilizando este botón - Remember you can choose your city any time pushing this button

@@ -1,0 +1,460 @@
+<resources>
+
+    <string-array name="pines"></string-array>
+
+    <!-- Splash -->
+    <string name="new_version_available">Existe una nueva versión de la aplicación, por favor actualiza para poder continuar.</string>
+    <string name="error_service_first_settings">Lo sentimos, ocurrió un error al iniciar la aplicación.</string>
+    <string name="error_service_first_countries">Para continuar es necesario contar con conexión a internet. Por favor, verifica tu conexión e inténtalo nuevamente.</string>
+    <string name="error_network_first_settings">Lo sentimos, no pudimos conectar con el servicio, por favor verifica tu conexión o inténtalo más tarde.</string>
+
+    <!-- Tutorial -->
+    <string name="end_intro">TERMINAR TUTORIAL</string>
+    <string name="indicator_intro">También puedes buscar tus\npelículas utilizando la vista de lista.</string>
+    <string name="welcome_text">¡Ahora la mejor experiencia del cine en la palma de tu mano!</string>
+    <string name="text_movies_step1">Explora de forma sencilla nuestras secciones con tan sólo un tap.</string>
+    <string name="text_movies_step2">También puedes buscar tus películas utilizando la vista de lista.</string>
+    <string name="text_movies_step3">Encuentra rápidamente lo que buscas, conoce nuestros estrenos, festivales y eventos especiales.</string>
+    <string name="text_foods">Encuentra rápidamente lo que buscas, conoce nuestros estrenos, festivales y eventos especiales.</string>
+    <string name="text_cinemas">Recuerda que puedes cambiar de ciudad en cualquier momento utilizando este botón.</string>
+    <string name="text_perfil_step1">Encuentra tu historial de boletos comprados.</string>
+    <string name="text_perfil_step2">Consulta tus pedidos de alimentos en cualquier momento.</string>
+    <string name="text_perfil_step3">Revisa tu historial de transacciones y puntos Club Cinépolis® fácilmente.</string>
+    <string name="text_perfil_step4">Almacena tus tarjetas en tu dispositivo para agilizar tus compras de forma segura.</string>
+    <string name="text_perfil_step5">¿Necesitas ayuda? Comunícate con Cineticket en cualquier momento.</string>
+
+    <string-array name="titulos_tutorial">
+        <item>Boletos</item>
+        <item>Compra de alimentos</item>
+        <item>Métodos de pago</item>
+        <item>Cines</item>
+        <item>Perfil</item>
+    </string-array>
+
+    <integer-array name="images_tutorial">
+        <item>@drawable/step_1</item>
+        <item>@drawable/step_2</item>
+        <item>@drawable/step_3</item>
+        <item>@drawable/step_4</item>
+        <item>@drawable/step_5</item>
+    </integer-array>
+
+    <string-array name="descripciones_tutorial">
+        <item>Compra en tan sólo 3 pasos, ¡sin hacer fila!</item>
+        <item>
+            <![CDATA[
+            <b>Y si estás en México,</b> ¡ordena tus alimentos desde tu dispositivo móvil y disfruta de la comodidad de Cinépolis® desde la palma de tu mano!
+            ]]>
+            </item>
+        <item>Recuerda que puedes pagar tus compras utilizando distintas opciones.</item>
+        <item>Puedes localizar tu cine y cambiar tu ciudad en todo momento en esta sección.</item>
+        <item>Crea tu cuenta Cinépolis® y comienza a gozar de los increíbles beneficios que tenemos para ti.</item>
+    </string-array>
+
+    <!-- Acciones Genéricas-->
+    <string name="accept">Aceptar</string>
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="continue_string">Continuar</string>
+    <string name="loading_">Cargando</string>
+    <string name="cancel">Cancelar</string>
+    <string name="permitir">Permitir</string>
+    <string name="denegar">Denegar</string>
+    <string name="retry">Reintentar</string>
+    <string name="search">Buscar</string>
+    <string name="share">Compartir</string>
+    <string name="fav">Favorito</string>
+    <string name="wait">Espera un momento</string>
+    <string name="end">Finalizar</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="call">Llamar</string>
+    <string name="close">Cerrar</string>
+    <string name="contact">Contactar</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="sin_cartelera">No se encontró \nninguna cartelera.</string>
+    <string name="fecha_estreno_format">Fecha de estreno: \n%s</string>
+    <string name="fecha_estreno">Fecha de estreno:</string>
+    <string name="coming_soon">Próximamente</string>
+    <string name="tab_title_movies">Películas</string>
+    <string name="tab_title_food">Alimentos</string>
+    <string name="tab_title_cinemas">Cines</string>
+    <string name="tab_title_profile">Perfil</string>
+
+    <string-array name="titulos_tabs">
+        <item>Películas</item>
+        <item>Alimentos</item>
+        <item>Cines</item>
+        <item>Perfil</item>
+    </string-array>
+
+    <!-- Ubicación -->
+    <string name="location_rationale">Cinépolis® usará tu ubicación para buscar la cartelera más cercana</string>
+    <string name="location_permission_request">¿Deseas permitir tu ubicación?</string>
+    <string name="first_location">Detectamos que tu ubicación es %s, ¿deseas mostrar la cartelera de esta ciudad?</string>
+    <string name="new_location">Tu ubicación a cambiado a %s, ¿deseas mostrar la cartelera de esta ciudad?</string>
+    <string name="select_country">Escoge tu país</string>
+    <string name="select_city">Escoge tu ciudad</string>
+    <string name="choose_country">Elegir país</string>
+    <string name="choose_city">Elegir ciudad</string>
+    <string name="change_location">Cambiar ubicación</string>
+    <string name="location_not_available">Ubicación no disponible</string>
+    <string name="hint_pais">País</string>
+    <string name="hint_ciudad">Ciudad</string>
+
+    <!-- Filtros -->
+    <string name="filter_now_playing">Cartelera</string>
+    <string name="filter_festivals">Muestras y festivales</string>
+    <string name="filter_art_room">Sala de Arte</string>
+    <string name="filter_next_releases">Próximos estrenos</string>
+    <string name="filter_pre_sale">Preventas</string>
+    <string name="filter_favorite_cinema">Cines favoritos</string>
+    <string name="filter_complejo">Por complejo</string>
+
+    <!-- Titulo Filtros  -->
+    <string name="filter_now_playing_estas_en">Estás en cartelera</string>
+    <string name="filter_festivals_estas_en">Estás en muestras y festivales</string>
+    <string name="filter_art_room_estas_en">Estás en Sala de Arte</string>
+    <string name="filter_next_releases_estas_en">Estás en próximos estrenos</string>
+    <string name="filter_pre_sale_estas_en">Estás en preventas</string>
+    <string name="filter_favorite_cinema_estas_en">Estás en cines favoritos</string>
+
+    <!-- Busqueda de peliculas-->
+    <string name="sin_funciones">No hay funciones</string>
+    <string name="format_genero">Género: %1$s</string>
+    <string name="format_duracion">Duración: %1$s</string>
+
+    <!-- Detalle de película -->
+    <string name="synopsis">Sinopsis</string>
+    <string name="schedule">Horarios</string>
+    <string name="movie_info">Duración:</string>
+
+    <!-- Horarios -->
+    <string name="schedule_today">Hoy</string>
+    <string name="schedule_tomorrow">Mañana</string>
+
+    <!-- Cines -->
+    <string name="cines_format_info"><b>Dirección:</b> %s\n<b>Teléfono:</b> %s</string>
+    <string name="cines_todos">Todos los cines</string>
+    <string name="ubicacion_actual">Ubicación actual: %s</string>
+
+    <!-- Pase anual -->
+    <string name="title_annual_pass">Pase Anual Corporativo</string>
+    <string name="hint_pin">PIN</string>
+    <string name="ticket_add_annual_pass">¿Deseas agregar un Pase Anual Corporativo?</string>
+    <string name="ticket_use_annual_pass">¿Deseas utilizar tu Pase Anual Corporativo?</string>
+    <string name="card_number_empty">Ingresa tu tarjeta</string>
+    <string name="card_number_invalid">Ingresa un numero de tarjeta válido</string>
+    <string name="pin_empty">Ingresa tu PIN</string>
+    <string name="pin_invalid">Ingresa un PIN válido</string>
+    <string name="configuration_annual_pass">Recuerda que puedes agregar o eliminar tu Pase Anual Corporativo ingresando a Perfil, en la sección de Mis tarjetas.</string>
+    <string name="cancel_add_annual_pass">¿Deseas cancelar tu compra?</string>
+    <string name="continuar_comprando">Seguir comprando</string>
+    <string name="cancelar_compra">Cancelar compra</string>
+
+    <!-- Selección de Tickets -->
+    <string name="tickets_select_title_toolbar">Selecciona tus boletos</string>
+    <string name="tickets_total_label">TOTAL (IVA incluido):</string>
+    <string name="tickets_total">%s</string>
+    <string name="tickets_select_text">Puedes comprar 10 boletos máximo por transacción.</string>
+    <string name="format_tickets_select_text">Puedes comprar %d boletos máximo por transacción.</string>
+    <string name="tickets_select_hint_cupon">Cupón</string>
+    <string name="tickets_select_text_btn_redimir">Redimir</string>
+    <string name="tickets_select_type_tradicional">TRADICIONAL</string>
+    <string name="tickets_select_default_amount">$0.0</string>
+    <string name="tickets_get_seats">Obteniendo asientos</string>
+    <string name="tickets_select_empty">Selecciona al menos un boleto para continuar</string>
+    <string name="ticket_reducido">REDUCIDO</string>
+    <string name="ticket_economico">ECONOMICO</string>
+    <string name="ticket_super_economico">SUPER ECONOMICO</string>
+
+    <!-- Compra -->
+    <string name="alert_session">Tu sesión está próxima a vencer, ¿deseas continuar?</string>
+    <string name="alert_session_end">Tu sesión ha expirado.</string>
+    <string name="ticket_selling_disabled">La compra de boletos no está habilitada, espérala proximamente.</string>
+
+    <!-- Selección de asientos -->
+    <string name="seat_selection_title_toolbar">Selecciona tus asientos</string>
+    <string name="seat_selection_movie_label">Película:</string>
+    <string name="seat_selection_cinema_label">Complejo:</string>
+    <string name="seat_selection_date_label">Fecha:</string>
+    <string name="seat_selection_showtime_label">Función:</string>
+    <string name="seat_selection_seats_label">Asientos:</string>
+    <string name="seat_selection_screen_label">Sala:</string>
+    <string name="seat_selection_tickets_label">Boletos:</string>
+    <string name="seat_selection_selected_label">Selección</string>
+    <string name="seat_selection_sold_label">Ocupado</string>
+    <string name="seat_selection_special_label">Silla de ruedas</string>
+    <string name="seat_selection_zona_a_label">Zona A</string>
+    <string name="seat_selection_zona_b_label">Zona B</string>
+    <string name="seat_selection_zona_c_label">Zona C</string>
+    <string name="seat_selection_pantalla_label">Pantalla</string>
+    <string name="seat_selection_unselected_seat">Los asientos de esta área no se pueden seleccionar.</string>
+    <string name="seat_selection_special_seat_alert">Usted ha seleccionado un asiento para persona en silla de ruedas, le solicitamos sea respetado. Puede que no existan asientos en este espacio. Los asientos adyacentes están designados para un acompañante de la persona en silla de ruedas, de ser requerido se le podrá pedir que se traslade a otro asiento disponible o de no haber cupo en la sala se le devuelva una cortesía de entrada.</string>
+    <string name="seat_selection_incomplete">Selecciona todos sus asientos para continuar.</string>
+
+    <!-- Alimentos -->
+    <string name="dialog_question_food_selection">¿Deseas agregar alimentos?</string>
+
+    <!-- Selección de metodo de pago -->
+    <string name="title_payment_method">Realizar compra</string>
+    <string name="pay_payment_method">Elige la forma de pago que prefieras.</string>
+
+    <!-- Datos de usuario para compra -->
+    <string name="title_user_data">Datos personales</string>
+    <string name="user_data_name">Nombre completo</string>
+    <string name="user_data_phonenumber">Número telefónico</string>
+    <string name="user_data_email">Correo electrónico</string>
+    <string name="user_data_tcc">Tarjeta Club Cinépolis®</string>
+    <string name="user_data_name_empty">Ingresa tu nombre completo</string>
+    <string name="user_data_email_empty">Ingresa tu correo electrónico.</string>
+    <string name="invalid_tcc">Ingresa un número de tarjeta Club Cinépolis® válido.</string>
+    <string name="question_club_cinepolis">¿Ya tienes una cuenta Club Cinépolis®?</string>
+    <string name="copy_login_club_cinepolis">Inicia sesión ahora y podrás obtener\nlos siguientes beneficios.</string>
+    <string name="user_data_name_digits">AaBbCcDdEeFfGgHhIiJjKkLlMmNnÑñOoPpQqRrSsTtUuVvWwXxYyZz ÁáÂâÃãÀàÇçÉéÊêÍíÓóÔôÕõÚú.</string>
+
+    <!-- Datos de tarjeta bancaría -->
+    <string name="card_data_cardnumber">Número de tarjeta</string>
+    <string name="card_data_expity_date">MM/AAAA</string>
+    <string name="card_data_cvv">CVV</string>
+    <string name="card_data_cardholder">Titular de la tarjeta</string>
+    <string name="card_data_scan_card_instructions">Sostenga la tarjeta aquí \nSe escaneará automáticamente.</string>
+    <string name="card_data_cardholder_digits">AÁBCDEÉFGHIÍJKL MNÑOÓPQRSTUÚVWXYZ.</string>
+    <string name="save_card">Guardar tarjeta</string>
+
+    <string name="cardnumber_empty">Ingresa el número de tarjeta.</string>
+    <string name="invalid_cardnumber">Ingresa un número de tarjeta válido.</string>
+    <string name="expiry_date_empty">Ingresa una fecha de expiración.</string>
+    <string name="cvv_empty">Ingresa el código de seguridad de la tarjeta.</string>
+    <string name="invalid_cvv">El código de seguridad de la tarjeta debe de ser de 3 dígitos.</string>
+    <string name="invalid_cvv_amex">El código de seguridad de la tarjeta debe de ser de 4 dígitos.</string>
+    <string name="cardholder_empty">Ingresa el nombre del titular de la tarjeta.</string>
+    <string name="cardholder_incomplete">Ingresa el nombre completo del titular de la tarjeta.</string>
+
+    <!-- Datos de compra tcc -->
+    <string name="user_data_empty_loyalty">Ingresa el número de tu tarjeta Club Cinépolis®.</string>
+    <string name="user_data_length_loyalty">Ingresa el número de tu tarjeta Club Cinépolis® debe de ser 16 digitos</string>
+
+    <!-- Confirmar compra-->
+    <string name="title_confirmar">Confirmar compra</string>
+    <string name="label_nombre">Nombre</string>
+    <string name="label_detalle_pago">Detalle de pago</string>
+    <string name="label_tarjeta_bancaria">Tarjeta</string>
+    <string name="label_metodo_pago">Métodos de pago</string>
+    <string name="label_asientos">Asientos</string>
+    <string name="label_boletos">Boletos</string>
+    <string name="label_precio">Precio</string>
+    <string name="format_checkbox_tyc">He leído y estoy de acuerdo con los &lt;a href="%1$s">Términos y condiciones&lt;/a> y &lt;a href="%2$s">Aviso de privacidad&lt;/a></string>
+    <string name="alert_tyc">Antes de pagar por favor verifica los Términos y condiciones y Aviso de privacidad</string>
+
+    <string name="label_total_compra">%s</string>
+
+    <!-- Medios de Pago -->
+    <string name="payment_method_label_unpaid_booking">Reservar</string>
+    <string name="payment_method_label_bank_card">Tarjeta Bancaria</string>
+    <string name="payment_method_label_paypal">PayPal</string>
+    <string name="payment_method_label_cinecash">CineCash®</string>
+    <string name="payment_method_label_visa_checkout">Visa Checkout</string>
+    <string name="payment_method_label_loyalty_points">Club Cinépolis®</string>
+    <string name="payment_method_label_annual_pass">Pase Anual</string>
+
+    <!-- Respuesta de compra -->
+    <string name="response_successfully">Tu compra ha sido realizada exitosamente, \n gracias por tu preferencia.</string>
+    <string name="response_confirmation_number">Tu número de confirmación es:</string>
+    <string name="response_tyc">* Sólo el titular de la tarjeta de crédito/débito puede recoger boletos, llevando consigo la tarjeta de crédito, identificación oficial y firmando el voucher correspondiente en compras mayores a $250.00. Recuerda que una vez realizado el cargo a tu tarjeta de crédito no habrá cambios ni cancelaciones.</string>
+
+    <!-- Compra completada -->
+    <string name="title_detalle_compra">Detalle de compra</string>
+    <string name="label_gracias">¡Gracias por tu preferencia!</string>
+    <string name="label_instrucciones_consulta_compra">Puedes consultar el detalle de tu compra\n en tu correo electrónico o en tu perfil.</string>
+    <string name="btn_ver_compra">VER DETALLE DE COMPRA</string>
+    <string name="title_finalizar_compra">Finalizar compra</string>
+    <string name="mensaje_reserva_latam">Deberás llegar al cine una hora antes de que comience la función y pagar tus boletos en taquilla, de lo contrario tu orden será cancelada.</string>
+
+    <!-- Alimentos seleccion complejo -->
+    <string name="food_cinemas_empty_label">Espera pronto la venta de alimentos en tu ciudad.</string>
+
+    <!-- Cinepolis ID-->
+    <string name="cinepolis_id_titulo">Iniciar sesión</string>
+    <string name="cinepolis_id_text_con_tu_cuenta_podras">Con tu cuenta podrás</string>
+    <string name="cinepolis_id_text_tener_promociones_exclusivas">Tener promociones exclusivas</string>
+    <string name="cinepolis_id_text_registrarme">Registrarme</string>
+    <string name="cinepolis_id_text_ya_tengo_club_cinepolis">Ya tengo Club Cinépolis®</string>
+    <string name="cinepolis_id_text_registrarme_usando">Registrarme usando:</string>
+    <string name="cinepolis_id_text_o_ingresa_tus_datos">O ingresa tus datos</string>
+    <string name="cinepolis_id_text_apellido_paterno">Apellido paterno</string>
+    <string name="cinepolis_id_text_apellido_materno">Apellido materno</string>
+
+    <string name="cinepolis_id_text_confirmar_correo">Confirmar correo electrónico</string>
+    <string name="cinepolis_id_text_contrasena">Contraseña</string>
+    <string name="cinepolis_id_text_confirmar_contrasena">Confirmar contraseña</string>
+    <string name="cinepolis_id_text_tarjeta_club_cinepolis">Tarjeta Club Cinépolis® (Opcional)</string>
+    <string name="cinepolis_id_text_pregunta_de_seguridad">Pregunta de seguridad</string>
+    <string name="cinepolis_id_text_respuesta">Respuesta</string>
+    <string name="cinepolis_id_text_fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="cinepolis_id_text_telefono">Teléfono (10 digitos)</string>
+    <string name="cinepolis_id_text_inicia_sesion_con_cinepolis_id">Inicia sesión con tu cuenta Cinépolis®</string>
+    <string name="cinepolis_id_text_olvidaste_tu_contrasena">¿Olvidaste tu contraseña?</string>
+    <string name="cinepolis_id_text_conectar_con">Conectar con:</string>
+    <string name="cinepolis_id_text_iniciando_sesion">Iniciando sesión...</string>
+    <string name="error_empty_cinepolis_id">Ingresa tu Cinépolis® ID</string>
+    <string name="error_empty_cinepolis_pass">Ingresa tu contraseña de Cinépolis® ID</string>
+
+    <!-- Acerca De -->
+    <string name="acerca_de_text_desarrollado_por">Desarrollado por IA interactive</string>
+    <string name="acerca_de_text_terminos_y_condiciones">Términos y condiciones</string>
+    <string name="acerca_de_text_terminos_y_condiciones_cinecash">Términos y condiciones CineCash®</string>
+    <string name="acerca_de_text_aviso_de_privacidad">Aviso de privacidad</string>
+    <string name="url_terminos_y_condiciones">http://www.cinepolis.com/_html/terminos-condiciones.html</string>
+    <string name="url_terminos_y_condiciones_cinecash">https://docs.google.com/viewer?url=http://cinepolis.com/pdf/Terminos-y-condiciones-CINECASH.pdf</string>
+    <string name="url_aviso_privacidad">https://docs.google.com/viewer?url=http://www.cinepolis.com/PDF/aviso-de-privacidad-cinepolis.pdf</string>
+    <string name="web_title_tyc">Términos y condiciones</string>
+    <string name="web_title_aviso_privacidad">Aviso de privacidad</string>
+
+    <!-- Errores -->
+    <string name="unknown_error">Ocurrió un error inesperado, intenta más tarde.</string>
+    <string name="network_error">Ocurrió un error inesperado, verifica tu conexión.</string>
+    <string name="network_timeout_mx">Lo sentimos, la operación no fue completada. Pudo haberse aplicado algún cargo a tu cuenta. Por favor, contacta a Cineticket al 01 55 2122 6060 para verificar.</string>
+    <string name="network_timeout_latam">Lo sentimos, la operación no fue completada. Pudo haberse aplicado algún cargo a tu cuenta. Por favor, contacta a aac@cinepolis.com para verificar.</string>
+    <string name="servicio_no_disponible_intenta_nuevamente">Servicio no disponible, por favor intenta nuevamente.</string>
+
+    <!-- Mensajes para errores de conexión-->
+    <string name="offline_message">No cuentas con conexión a internet.</string>
+    <string name="timeout_message">No se recibió respuesta del servidor.</string>
+    <string name="http_status_error_message">Ocurrió un problema en la conexión, intente más tarde.</string>
+    <string name="pinning_message">Su conexión no es segura, pruebe con otra red.</string>
+    <string name="io_exception_message">Ocurrió un problema en la conexión, intente más tarde.</string>
+    <string name="exception_connection_message">Ocurrió un problema en la conexión, intente más tarde.</string>
+    <string name="sesion_expirada">Tu sesión ha expirado, ingresa tus datos nuevamente.</string>
+
+    <!-- Mensajes para errores de parseo-->
+    <string name="json_to_object_message">Se ha recibido una respuesta incorrecta.</string>
+    <string name="object_to_json_message">Petición incorrecta, revisa tus datos.</string>
+
+    <string name="tu_pedido_ser_entregado_con_los_siguientes_datos">Tu pedido será entregado con \nlos siguientes datos:</string>
+    <string name="c_digo_de_confirmaci_n_de_alimentos">Código de confirmación de boleto:</string>
+    <string name="dollar">$</string>
+    <string name="confirmation_code">"Código de confirmación: "</string>
+    <string name="date_format">yyyy-dd-MM\'T\'hh:mm:ss</string>
+    <string name="no_existen_boletos_para_mostrar">Aún no tienes\nningún boleto.</string>
+    <string name="pedido_eliminado">Pedido eliminado</string>
+    <string name="boletos_eliminado">Boletos eliminados</string>
+
+    <!-- Perfil -->
+    <string name="mi_perfil_mis_boletos">Mis boletos</string>
+    <string name="mi_perfil_mis_pedidos">Mis pedidos</string>
+    <string name="mi_perfil_buzon">Buzón</string>
+    <string name="mi_perfil_cineticket">¿Necesitas ayuda?</string>
+    <string name="mi_perfil_visita_guiada">Activa visita guiada</string>
+    <string name="mi_perfil_tutorial_youtube">Ver tutorial</string>
+    <string name="mi_perfil_acerca_de">Acerca de</string>
+    <string name="mi_perfil_cerrar_sesion">Cerrar sesión</string>
+    <string name="mi_perfil_unete">Únete a Cinépolis®</string>
+    <string name="mi_perfil_comienza_gozar">Y comienza a gozar de todos los \nbeneficios que tenemos para ti.</string>
+    <string name="mi_perfil_crear_un_perfil">Crear un perfil ahora</string>
+    <string name="mi_perfil_ya_tengo_cuenta">Ya tengo cuenta</string>
+    <string name="mi_perfil_detalle_boleto_descripcion_reserva">Deberás llegar al cine 40 minutos antes de que comience la función y pagar tus boletos en taquilla, de lo contrario tu orden será cancelada.</string>
+    <string name="mi_perfil_detalle_boleto_descripcion_compra">En compras mayores a $200 el titular de la tarjeta debe presentarse en atención al cliente para firmar el comprobante fiscal necesario.</string>
+    <string name="c_digo_de_confirmaci_n_de_boleto">Código de confirmación de boleto:</string>
+    <string name="mi_perfil_detalle_boleto_datosfacturacion">Datos de facturación</string>
+    <string name="mi_perfil_detalle_boleto_cine">Cine: </string>
+    <string name="mi_perfil_detalle_transaccion">Transacción: </string>
+    <string name="no_existen_pedidos_para_mostrar">No tienes ningún\npedido aún.</string>
+    <string name="in_progress">En Proceso</string>
+    <string name="mi_perfil_sesion_cerrada">Sesión cerrada correctamente.</string>
+    <string name="mi_perfil_question">¿Seguro que quieres cerrar sesión?.</string>
+    <string name="mi_perfil_cineticket_question">¿Deseas comunicarte con Cineticket?</string>
+    <string name="mi_perfil_visitas">visitas</string>
+
+    <!-- Boletos -->
+    <string name="boletos_titulo_pelicula">Película</string>
+    <string name="boletos_titulo_complejo">Complejo</string>
+    <string name="boletos_titulo_fecha">Fecha</string>
+    <string name="boletos_titulo_transaccion">Transacción</string>
+    <string name="boletos_titulo_cine">Cine</string>
+
+    <!-- Club Cinépolis -->
+    <string name="club_cinepolis_afiliate_por">Afíliate por $59</string>
+    <string name="club_cinepolis_y_comienza_gozar">Y comienza a gozar de todos los\nbeneficios que tenemos para ti.</string>
+    <string name="club_cinepolis_yo_la_quiero">Yo la quiero</string>
+    <string name="club_cinepolis_ta_tengo_targeta">Ya tengo una tarjeta</string>
+    <string name="club_cinepolis_ingresa_tarjeta">Ingresa el número de tu tarjeta</string>
+    <string name="club_cinepolis_numero_tarjeta">Número de tarjeta Club Cinépolis®</string>
+    <string name="club_cinepolis_ultimos_movimientos">Últimos movimientos</string>
+    <string name="club_cinepolis_sin_transacciones">No tienes ninguna transacción.</string>
+    <string name="no_existen_datos_para_mostrar">No existen datos para mostrar.</string>
+    <string name="club_cinepolis_insuficient_credits">"Lo sentimos, no tienes suficientes puntos Club Cinépolis®. Por favor intenta con otro método de pago.</string>
+
+    <!--Cinepolis ID -->
+    <string name="cinepolis_id_error_login">Tu usuario o contraseña son incorrectos, por favor verifícalos.</string>
+
+    <!-- Buzon -->
+    <string name="buzon_phone">Teléfono</string>
+    <string name="buzon_service">Servicio</string>
+    <string name="buzon_message">Mensaje</string>
+    <string name="buzon_tipe_message">Tipo de mensaje</string>
+    <string name="buzon_send">Enviar</string>
+    <string name="buzon_msg_email_invalido">Ingresa un correo electrónico válido.</string>
+    <string name="buzon_msg_phone">Ingresa un teléfono.</string>
+    <string name="buzon_msg_phone_valido">Ingresa un teléfono válido.</string>
+    <string name="buzon_msg_type_message">Es necesario seleccionar un tipo de mensaje.</string>
+    <string name="buzon_msg_citie">Es necesario seleccionar una ciudad.</string>
+    <string name="buzon_msg_complex">Es necesario seleccionar un complejo.</string>
+    <string name="buzon_msg_service">Es necesario seleccionar un servicio.</string>
+    <string name="buzon_msg_ingresa">Ingresa un mensaje.</string>
+    <string name="buzon_msg_enviado">Mensaje enviado correctamente.</string>
+    <string-array name="type_message">
+        <item>Sugerencia</item>
+        <item>Queja</item>
+    </string-array>
+    <string-array name="services">
+        <item>Taquilla</item>
+        <item>Dulcería</item>
+        <item>App</item>
+    </string-array>
+
+    <!-- Mis Tarjetas-->
+    <string name="title_mis_tarjetas">Mis tarjetas</string>
+    <string name="agregar_tarjeta_bancaria">Agregar tarjeta bancaria</string>
+    <string name="agregar_pase_anual">Agregar Pase Anual Corporativo</string>
+    <string name="agregar_club_cinepolis">Agregar tarjeta Club Cinépolis®</string>
+    <string name="tarjeta_eliminada">Tarjeta borrada</string>
+    <string name="pase_anual_eliminado">Pase Anual borrado</string>
+    <string name="tcc_eliminada">Tarjeta Club Cinépolis borrada</string>
+
+    <!-- CineCash -->
+    <string name="credit">Crédito</string>
+    <string name="reload">Recargar</string>
+    <string name="cinecash_credits">créditos Cinecash</string>
+    <string name="without_transactions">No tienes ninguna\ntransacción.</string>
+    <string name="cinecash_insuficient_credits">"Lo sentimos, no tienes créditos Cinecash suficientes. Por favor intenta con otro método de pago.</string>
+
+    <!-- Configuracion -->
+    <string name="configuracion">Configuración</string>
+    <string name="configuracion_ubicacion_localizacion">Ubicación y localización</string>
+    <string name="configuracion_permitir_deteccion">Permitir detección de ubicación</string>
+    <string name="configuracion_ciudad_actual">Ciudad actual</string>
+    <string name="configuracion_notificaciones">Notificaciones</string>
+    <string name="configuracion_permitir_notificaciones">Permitir notificaciones</string>
+
+    <!--Sugerencia Alimentos-->
+    <string name="go_to_menu">Sí, ver el menú completo</string>
+    <string name="continue_shopping_tickets">No, continuar la compra de boletos</string>
+
+    <!--soporte-->
+    <string name="support_cineticket_mx">015521226060</string>
+    <string name="support_email_latam">aac@cinepolis.com</string>
+
+    <!--informacion de layouts-->
+    <string name="l_qr">PT84NA3</string>
+    <string name="l_cinecash_puntos">+28</string>
+    <string name="l_problema">¡Ups! Ha ocurrido un problema.</string>
+    <string name="l_tiempo">00:00</string>
+    <string name="tel_cineticket">tel:01551226060</string>
+    <string name="error_video">Error al cargar el video</string>
+    <string name="error_showtime_detail">Ocurrió un error al obtener el mapa de asientos, intenta más tarde.</string>
+
+    <!-- VCO -->
+    <string name="visa_checkout_payment_description">Compra Cinépolis</string>
+
+</resources>
